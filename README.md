@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiyana1379
+- 👋 Hi, I’m @kiyana mirbaghestan
 - 👀 I’m interested in data analysis with Python and R, AI and bioinformatics.
 - 🌱 I’m currently learning Reinforcement Learning and SQL.
 - 💞️ I’m looking to collaborate to have the experience to be a data scientist.
